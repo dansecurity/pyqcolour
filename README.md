@@ -1,0 +1,2 @@
+# pyqcolour
+python colorful library
